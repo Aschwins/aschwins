@@ -16,14 +16,7 @@ My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=FF8C00)
 
-<!-- ## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles: -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ## &#x270d; Blog & Writing -->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -49,12 +42,12 @@ A sample of my recent articles: -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/Aschwins/aschwin/main/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/Aschwins/aschwins/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/https://x.com/afschilperoort
+[1]: https://twitter.com/afschilperoort
 [2]: https://github.com/Aschwins
 [3]: https://www.linkedin.com/in/afschilperoort/
 
