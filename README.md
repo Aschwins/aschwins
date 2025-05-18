@@ -6,10 +6,9 @@ My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the 
 
 ## 🖥 Connect
 
-[![https://www.linkedin.com/in/afschilperoort/](https://custom-icon-badges.demolab.com/badge/LinkedIn-afschilperoort-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-afschilperoort-0A66C2?logo=linkedin-white&logoColor=fff)(https://www.linkedin.com/in/afschilperoort/)
 
-![https://aschwins.github.io/](https://img.shields.io/badge/GitHubIO-%23121011.svg?logo=github&logoColor=white)
-
+[![GitHub Badge](https://img.shields.io/badge/GitHub-aschwins-%23121011.svg?logo=github&logoColor=white)](https://aschwins.github.io/)
 
 ## 🔧 Techstack
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=vim&logoColor=white&color=FF8C00)
