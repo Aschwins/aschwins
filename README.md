@@ -2,19 +2,28 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/Aschwins/aschwins/main/wave.gif" width="30px" height="30px" />
 
-My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the Netherlands, living in The Hague. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the Netherlands, living in The Hague, currently working for dsm-firmenich.
+
+## 🖥 Connect
+
+[![https://www.linkedin.com/in/afschilperoort/](https://custom-icon-badges.demolab.com/badge/LinkedIn-afschilperoort-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+
+![https://aschwins.github.io/](https://img.shields.io/badge/GitHubIO-%23121011.svg?logo=github&logoColor=white)
+
 
 ## 🔧 Techstack
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=vim&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/backend-fastapi-informational?style=flat&logo=fastapi&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/backend-spring-informational?style=flat&logo=spring&logoColor=white&color=FF8C00)
+![Django](https://img.shields.io/badge/backend-Django-%23092E20.svg?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=FF8C00)
+![](https://img.shields.io/badge/LLM-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![https://botorch.org/](https://img.shields.io/badge/BO-BoTorch-ee4c2c?logo=pytorch&logoColor=white)
 
 <!-- ## &#x270d; Blog & Writing -->
 
