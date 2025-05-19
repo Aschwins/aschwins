@@ -10,9 +10,11 @@ My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the 
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-aschwins-%23121011.svg?logo=github&logoColor=white)](https://aschwins.github.io/)
 
+[![X](https://img.shields.io/badge/X-afschilperoort-%23000000.svg?logo=X&logoColor=white)](https://x.com/afschilperoort)
+
 ## 🔧 Techstack
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=vim&logoColor=white&color=FF8C00)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FF8C00)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)	
+[![Python IDLE](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=fff)](#)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/backend-fastapi-informational?style=flat&logo=fastapi&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/backend-spring-informational?style=flat&logo=spring&logoColor=white&color=FF8C00)
@@ -23,17 +25,13 @@ My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=FF8C00)
 ![](https://img.shields.io/badge/LLM-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![https://botorch.org/](https://img.shields.io/badge/BO-BoTorch-ee4c2c?logo=pytorch&logoColor=white)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/BI-Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
 <!-- ## &#x270d; Blog & Writing -->
 
 ## &#x1f4c8; GitHub Stats
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/Aschwins/aschwins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschwins&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=FF8C00&bg_color=1d1f21&langs_count=3" />
-</a>
-
 <br/>
 <a href="https://github.com/Aschwins/aschwins">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aschwins&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FF8C00&bg_color=1d1f21" alt="Aschwin's GitHub Stats" />
