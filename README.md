@@ -29,14 +29,6 @@ My name is Aschwin Schilperoort and I'm a Data Scientist/Engineer. I'm from the 
 
 <!-- ## &#x270d; Blog & Writing -->
 
-## &#x1f4c8; GitHub Stats
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-<br/>
-<a href="https://github.com/Aschwins/aschwins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aschwins&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FF8C00&bg_color=1d1f21" alt="Aschwin's GitHub Stats" />
-</a>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
